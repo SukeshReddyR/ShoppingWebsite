@@ -1,0 +1,11 @@
+insert into CITY (zip, city_name, state) values (37042, 'Clarksville', 'TN');
+insert into CITY (zip, city_name, state) values (78641, 'Leander', 'TX');
+insert into CITY (zip, city_name, state) values (77494, 'Katy', 'TX');
+insert into CITY (zip, city_name, state) values (78130, 'New Braunfels', 'TX');
+insert into CITY (zip, city_name, state) values (73099, 'Yukon', 'OK');
+insert into CITY (zip, city_name, state) values (30052, 'Loganville', 'GA');
+insert into CITY (zip, city_name, state) values (75126, 'Forney', 'TX');
+insert into CITY (zip, city_name, state) values (92592, 'Temecula', 'CA');
+insert into CITY (zip, city_name, state) values (92101, 'San Diego 1', 'CA');
+insert into CITY (zip, city_name, state) values (34747, 'Celebration', 'FL');
+insert into CITY (zip, city_name, state) values (61455, 'Macomb', 'IL');
